@@ -2,3 +2,5 @@
    ntl-interface.o:         U operator delete(void*)
    ntl-internal.o:         U operator delete(void*)
    ntl-internal.o:         U operator new(unsigned int)
+
+-- line added in git, testing whether new branch will affect M2-git-from-svn repo.
